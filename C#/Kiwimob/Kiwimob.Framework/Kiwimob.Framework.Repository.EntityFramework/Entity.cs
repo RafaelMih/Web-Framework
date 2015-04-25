@@ -1,5 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
-using Kiwimob.Framework.Repository.Infrastructure;
+﻿using Kiwimob.Framework.Repository.Infrastructure;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Kiwimob.Framework.Repository.EntityFramework
 {

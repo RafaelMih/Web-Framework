@@ -1,7 +1,7 @@
-﻿using System;
-using System.Data;
-using Kiwimob.Framework.Repository.Infrastructure;
+﻿using Kiwimob.Framework.Repository.Infrastructure;
 using Kiwimob.Framework.Repository.Repositories;
+using System;
+using System.Data;
 
 namespace Kiwimob.Framework.Repository.UnitOfWork
 {

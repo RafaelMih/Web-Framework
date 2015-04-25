@@ -1,10 +1,10 @@
-﻿using System;
+﻿using Kiwimob.Framework.Repository.DataContext;
+using Kiwimob.Framework.Repository.Infrastructure;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Threading;
 using System.Threading.Tasks;
-using Kiwimob.Framework.Repository.DataContext;
-using Kiwimob.Framework.Repository.Infrastructure;
 
 namespace Kiwimob.Framework.Repository.EntityFramework
 {

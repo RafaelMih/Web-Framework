@@ -1,7 +1,7 @@
-﻿using System.Threading;
-using System.Threading.Tasks;
-using Kiwimob.Framework.Repository.Infrastructure;
+﻿using Kiwimob.Framework.Repository.Infrastructure;
 using Kiwimob.Framework.Repository.Repositories;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace Kiwimob.Framework.Repository.UnitOfWork
 {

@@ -1,6 +1,6 @@
-﻿using System.Threading;
+﻿using Kiwimob.Framework.Repository.Infrastructure;
+using System.Threading;
 using System.Threading.Tasks;
-using Kiwimob.Framework.Repository.Infrastructure;
 
 namespace Kiwimob.Framework.Repository.Repositories
 {

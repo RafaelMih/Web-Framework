@@ -1,19 +1,18 @@
 ﻿#region
 
+using Kiwimob.Framework.Repository.DataContext;
+using Kiwimob.Framework.Repository.Infrastructure;
+using Kiwimob.Framework.Repository.Repositories;
+using Kiwimob.Framework.Repository.UnitOfWork;
+using Microsoft.Practices.ServiceLocation;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel.Design;
 using System.Data;
 using System.Data.Common;
 using System.Data.Entity.Core.Objects;
 using System.Data.Entity.Infrastructure;
 using System.Threading;
 using System.Threading.Tasks;
-using Microsoft.Practices.ServiceLocation;
-using Kiwimob.Framework.Repository.DataContext;
-using Kiwimob.Framework.Repository.Infrastructure;
-using Kiwimob.Framework.Repository.Repositories;
-using Kiwimob.Framework.Repository.UnitOfWork;
 
 #endregion
 

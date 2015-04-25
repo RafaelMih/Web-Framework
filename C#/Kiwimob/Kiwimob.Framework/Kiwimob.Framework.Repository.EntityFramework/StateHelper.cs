@@ -1,6 +1,6 @@
-﻿using System;
+﻿using Kiwimob.Framework.Repository.Infrastructure;
+using System;
 using System.Data.Entity;
-using Kiwimob.Framework.Repository.Infrastructure;
 
 namespace Kiwimob.Framework.Repository.EntityFramework
 {

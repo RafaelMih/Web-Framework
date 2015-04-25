@@ -1,20 +1,18 @@
 ﻿#region
 
+using Kiwimob.Framework.Repository.DataContext;
+using Kiwimob.Framework.Repository.Infrastructure;
+using Kiwimob.Framework.Repository.Repositories;
+using Kiwimob.Framework.Repository.UnitOfWork;
+using LinqKit;
 using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data.Entity;
 using System.Diagnostics;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Threading;
 using System.Threading.Tasks;
-using LinqKit;
-using Kiwimob.Framework.Repository.DataContext;
-using Kiwimob.Framework.Repository.Infrastructure;
-using Kiwimob.Framework.Repository.Repositories;
-using Kiwimob.Framework.Repository.UnitOfWork;
 
 #endregion
 

@@ -1,5 +1,5 @@
-﻿using System;
-using Kiwimob.Framework.Repository.Infrastructure;
+﻿using Kiwimob.Framework.Repository.Infrastructure;
+using System;
 
 namespace Kiwimob.Framework.Repository.DataContext
 {
